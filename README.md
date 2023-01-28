@@ -1,1 +1,1 @@
-# spring-boot3-jwt
+# Blaze APP
